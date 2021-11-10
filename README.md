@@ -1,5 +1,5 @@
 # Assignment 4
-##Gulfairus Aliyar, Izel Abuova | SE-2010
+## Gulfairus Aliyar, Izel Abuova | SE-2010
 ### Installation
 #### Clone the repository to your local machine:
 ``git clone your-git-repo``  
