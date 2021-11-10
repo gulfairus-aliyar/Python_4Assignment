@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="/coin" method="POST">
+  <input type="text" name="coin" placeholder="coin name" value="{{ coin }}">
+  <input type="submit" value="Check">
+</form>
+{% for p in paragraphs %}
+  <p>{{ p }}</p>
+{% endfor %}
+{% endblock %}
